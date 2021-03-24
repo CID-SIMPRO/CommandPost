@@ -1,4 +1,4 @@
-# CommandPost
+# Command Post
 Command post simulator
 
 ## Basic interrogants:
