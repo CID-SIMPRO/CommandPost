@@ -15,7 +15,5 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: Adding Readme -Spanish
+      - name: Adding Readme - Spanish
         uses: dephraiim/translate-readme@v1
-        with:
-          LANG: es
