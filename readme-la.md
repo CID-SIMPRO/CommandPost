@@ -38,7 +38,7 @@ Post imperium romanum
     -   Nubes, venti, temperaturis (aircrafts)
     -   Temperature; conflueverant (navali)
 
-    ### Land components
+    ### components terra
 -   Mensam de vexillum apparatu (pollicem) opus est?
     -   Semita ab arce et quantum materia amet unicuique assignata, quae cum diversis tela, cibus, etc
     -   Numerus et unitas per systems telum rationem definiuntur.
@@ -87,7 +87,7 @@ Post imperium romanum
 -   Portus et navalia sunt de locis interest?
     #### Description de basic unitates navali
     -   Aircraft eorum qui onera portabant, qui deployable aer bases, quinque ad mare. Praecipuum autem negotium explicandi ordinis et potestatis aeris navali recuperet, sed etiam ad Lorem sunt coepta.
-    -   Battle cruisers and battle ships provide the artillery firepower and missile launching capability of naval force.
+    -   Curam navium acie lembis proelio navali potentia deductis tormenta telorumque firepower.
     -   Et uti solent tueri fregatae Corvettes vehicula elit certamen navium maxime adversa submarines. Sunt quoque saepe solebat praesidio onerariis navibus frumento prohibere potuissent debent prestando subsidium aut piratis in basic praesidium. Focus unice propria bella hostis submarines Submarine venatores.
     -   Fregatae quarum partes sunt similes et subversores sunt tecum, et naves vota Corvettes sed eorum arma principalis ratio est, torpedo.
     -   Maris fortitudo mea mihi vasa mea propria purgatores venatores. Quidam specialiter disposuerat navali viribus uti etiam strati mei.
@@ -101,7 +101,7 @@ Post imperium romanum
 
 ##### SEDRIS: Opera data Nova Repraesentatio inter se atque Specification
 
--   The Environmental Data Coding Specification (EDCS)
+-   De Rerum data Coding Specification (EDCS)
 -   Et data representation Model (DRM)
 -   Et Reference Model Simulium (SRM)
 -   Et Cedaris Transmittal Forma (Stuff)
