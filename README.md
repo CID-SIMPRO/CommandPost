@@ -109,8 +109,8 @@ Command post simulator
   - Explicit patch models
   - Implicit mobility models (outdated)
   - Network models
-  -- Are formations modeled??
-  -- Casualties and casualty rates influence movement??
+    - Are formations modeled??
+    - Casualties and casualty rates influence movement??
   ### Looking (Sensing):
   - Line of sight algorithms
   - High resolution sensing
