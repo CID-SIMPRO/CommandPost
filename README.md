@@ -82,15 +82,15 @@ Command post simulator
     
   ### Naval components
   - Are ports and shipyards areas of interest?
-  #### Basic description of naval units
-  - Aircraft carriers that are deployable air bases on the sea. Their primary task is to deploy and recover naval air power, but they are also used to launch missiles.
-  - Battle cruisers and battle ships provide the artillery firepower and missile launching capability of naval force.
-  - Frigates and corvettes are normally used to protect battle ships and aircraft carriers, in particular against opposing submarines. They are also often used to protect merchant vessels against pirates or support convoys by providing basic protection. Special submarine hunters focus exclusively on battles against enemy submarines.
-  - Destroyers and cruisers fulfill a similar role to frigates and corvettes, but their main weapon system is the torpedo.
-  - Special vessels for sea mine warfare are mine sweepers and mine hunters. Some naval forces also use specially designed mine layers.
-  - Tenders provide logistics and maintenance for the navy and its related systems.
-  - Submarines are used for underwater warfare. They come in many roles and shapes, ranging from nuclear submarines that can remain under water for weeks to tactical small submarines for operations in littoral areas or shallow waters, like the Baltic Sea.
-  - Hospital ships provide medical supply.
+    #### Basic description of naval units
+    - Aircraft carriers that are deployable air bases on the sea. Their primary task is to deploy and recover naval air power, but they are also used to launch missiles.
+    - Battle cruisers and battle ships provide the artillery firepower and missile launching capability of naval force.
+    - Frigates and corvettes are normally used to protect battle ships and aircraft carriers, in particular against opposing submarines. They are also often used to protect merchant vessels against pirates or support convoys by providing basic protection. Special submarine hunters focus exclusively on battles against enemy submarines.
+    - Destroyers and cruisers fulfill a similar role to frigates and corvettes, but their main weapon system is the torpedo.
+    - Special vessels for sea mine warfare are mine sweepers and mine hunters. Some naval forces also use specially designed mine layers.
+    - Tenders provide logistics and maintenance for the navy and its related systems.
+    - Submarines are used for underwater warfare. They come in many roles and shapes, ranging from nuclear submarines that can remain under water for weeks to tactical small submarines for operations in littoral areas or shallow waters, like the Baltic Sea.
+    - Hospital ships provide medical supply.
 
 ### Necesary standards frameworks systems:
   #### Environmental data
