@@ -38,7 +38,7 @@ Command post simulator
     - Keep track of how much material will be assigned to each platform, such as different types of ammunition, fuel, etc
     - The number and type of weapon systems per unit are defined.
   -  How fast can a system move in different kinds of terrain?
-    - Do we need parameters that capture their important characteristics regarding mobility and vulnerability ??
+  - Do we need parameters that capture their important characteristics regarding mobility and vulnerability ??
   - Direct and Indirect fire?
   -  Mine warfare needs to be taken into account as well?
   -  Are tactical lines going to be simulated?
