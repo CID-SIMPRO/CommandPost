@@ -94,8 +94,6 @@ Command post simulator
   - Tenders provide logistics and maintenance for the navy and its related systems.
   - Submarines are used for underwater warfare. They come in many roles and shapes, ranging from nuclear submarines that can remain under water for weeks to tactical small submarines for operations in littoral areas or shallow waters, like the Baltic Sea.
   - Hospital ships provide medical supply.
-  
-## JOINT OPERATIONS AND COMMAND AND CONTROL ????
 
 ### Necesary standards frameworks systems:
   #### Environmental data
