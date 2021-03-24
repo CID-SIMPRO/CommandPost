@@ -81,11 +81,8 @@ Command post simulator
     - Reconnaissance
     
   ### Naval components
-- Airports with their runways and shelters are of interest as well?
-- Air defense facilities are of particular interest as well?
-- Is the he methods of air space control going to be simulated?
-- What about the positive identification means as a method to identify an aircraft as friend or foe.
-  #### Basic description of air units
+  - Are ports and shipyards areas of interest?
+  #### Basic description of naval units
   - Aircraft carriers that are deployable air bases on the sea. Their primary task is to deploy and recover naval air power, but they are also used to launch missiles.
   - Battle cruisers and battle ships provide the artillery firepower and missile launching capability of naval force.
   - Frigates and corvettes are normally used to protect battle ships and aircraft carriers, in particular against opposing submarines. They are also often used to protect merchant vessels against pirates or support convoys by providing basic protection. Special submarine hunters focus exclusively on battles against enemy submarines.
